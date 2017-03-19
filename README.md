@@ -1,3 +1,3 @@
 # Support
 
-1. [[Issues|Issues]]
+1. [[Issues|issues]]
